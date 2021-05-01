@@ -993,7 +993,7 @@
         {
          "columns":32,
          "firstgid":225,
-         "image":"Atlas\/base_out_atlas.png",
+         "image":"base_out_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,

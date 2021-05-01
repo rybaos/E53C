@@ -2015,7 +2015,7 @@
         {
          "columns":32,
          "firstgid":1249,
-         "image":"Atlas\/terrain_atlas.png",
+         "image":"terrain_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
